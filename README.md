@@ -12,4 +12,4 @@ The **Admin Dashboard** is a modern, responsive, and feature-rich web applicatio
 
 ---
 
-![image-dahsboard](https://github.com/user-attachments/assets/e4d71f53-31d9-4e44-97b7-20764e3edc4f)
+

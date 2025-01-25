@@ -13,4 +13,4 @@ The **Admin Dashboard** is a modern, responsive, and feature-rich web applicatio
 ---
 
 
-![image-dashboard](image-dahsboard)
+![image-dashboard](image-dahsboard.png)
